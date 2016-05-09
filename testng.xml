@@ -4,8 +4,7 @@
     <test name="test1">
 	<parameter name="myName" value="manisha"/> 
 	<classes>
-	    <class name="lesson14.ParamTestWithDataProvider1" />
-	    <class name="lesson14.ParamTestWithDataProvider2" />
+	    <class name="lesson1.testBaidu" />
 	</classes>
     </test>
 </suite>

@@ -102,7 +102,11 @@
 		<artifactId>guice</artifactId>
 		<version>4.0</version>
 	</dependency>
-	
+	<dependency>
+		<groupId>nu.validator.htmlparser</groupId>
+		<artifactId>htmlparser</artifactId>
+		<version>1.4</version>
+	</dependency>
 	
 	
   	</dependencies>
